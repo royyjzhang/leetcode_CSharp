@@ -18,4 +18,6 @@ C# code for Leetcode
 535  Encode and Decode Tiny URL                                       Medium<br>
 547  Friend Circles                                                   Medium<br>
 557  Reverse Words in a String III                                    Easy<br>
+628  Maximum Product of Three Numbers                                 Easy<br>
+661  Image Smoother                                                   Easy<br>
 

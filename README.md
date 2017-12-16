@@ -19,5 +19,9 @@ C# code for Leetcode
 547  Friend Circles                                                   Medium<br>
 557  Reverse Words in a String III                                    Easy<br>
 628  Maximum Product of Three Numbers                                 Easy<br>
+633  Sum of Square Numbers                                            Easy<br>
 661  Image Smoother                                                   Easy<br>
+697  Degree of an Array                                               Easy<br>
+720  Longest Word in Dictionary                                       Easy<br>
+744  Find Smallest Letter Greater Than Target                         Easy<br>
 
